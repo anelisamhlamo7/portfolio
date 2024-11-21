@@ -54,10 +54,10 @@ a {
 }
 
 a:hover {
-    color: #ffe6f0;
+    color:#333;
     text-decoration: underline;
     text-underline-offset: 1rem;
-    text-decoration-color: yellow;
+    text-decoration-color: #333;
 }
 
 .logo {
