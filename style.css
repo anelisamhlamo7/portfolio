@@ -347,6 +347,14 @@ section {
     border-color: rgb(163, 163, 163);
     text-align: center;
   }
+
+  .about-text-container p{
+    color: #333333;
+    font-family:"Poppins", sans-serif;
+    font-size: 20px; 
+    line-height: 1.5;
+    text-align: center;
+  }
   
   
   .details-container p {
