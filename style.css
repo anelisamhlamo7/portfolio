@@ -7,7 +7,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
-    background-color: rgb(141, 141, 7);
+    background-color: #88805f;
     color: #333;
 }
 
@@ -38,7 +38,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     height: 15vh;
-    background-color: rgb(175, 175, 8);
+    background-color: #88805f;
     z-index: 50; 
 }
 
